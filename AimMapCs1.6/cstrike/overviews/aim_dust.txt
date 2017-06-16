@@ -1,0 +1,14 @@
+// overview description file for aim_dust.bsp
+
+global 
+{
+	ZOOM	2.39
+	ORIGIN	-120 	-582.06	-144
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_dust.bmp"
+	HEIGHT	-225
+}

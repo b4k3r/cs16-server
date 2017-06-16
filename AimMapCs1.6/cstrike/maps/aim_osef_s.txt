@@ -1,0 +1,29 @@
+aim_osef_s
+
+
+
+
+
+
+
+
+Credits :
+---------
+
+Map      : S3B
+Textures : Valve, S3B, ...
+Models   : Serverklan
+Sky      : de_train
+
+
+
+
+
+by S3B - http://www.clubcs.org/
+
+
+
+
+
+
+

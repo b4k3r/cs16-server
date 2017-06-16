@@ -1,0 +1,10 @@
+Aim Map 2
+by Thru$t
+lovetthouse@hotmail.com
+-----------------------
+Recommended Server Setting:
+mp_freezetime 0
+-----------------------
+Recommended Client Setting:
+gl_spriteblend 0
+-----------------------

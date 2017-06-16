@@ -1,0 +1,14 @@
+// overview description file for aim_sk_ak_m4.bsp
+
+global 
+{
+	ZOOM	3.63
+	ORIGIN	-103.63	-1358.94	-233.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_sk_series.bmp"
+	HEIGHT	-468.00
+}
