@@ -1,6 +1,6 @@
 # Counter Strike 1.6 server on Docker
 
-It contains ESL configs.
+It contains ESL configs, bots and aim maps.
 
 ## Example
 ```
