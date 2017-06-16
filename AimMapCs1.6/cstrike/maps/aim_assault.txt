@@ -1,0 +1,10 @@
+Created by Tyas Veldhuis
+Textures by cs_Assault
+
+Aim_assault
+
+Counter-terrorist:  The CT's kill as many T's as they can
+
+Terrorists:  The T's kill as many CT's as they can
+
+Much aim-luck ;-)

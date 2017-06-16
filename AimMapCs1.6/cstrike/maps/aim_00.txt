@@ -1,0 +1,26 @@
+aim_00 - Aim-Map
+-------------------------
+
+mapping
+>> by Gimli       (www.gimli-maps.de)
+
+textures  
+>> by Diggedagg and Blazeer
+
+betatesting
+>> by NicTheSick
+
+gimli-maps:
+www.gimli-maps.de
+
+clan00:
+www.clan00.de
+
+Terrorists: 
+Simply aim fast and kill your enemies.
+
+
+Counter-Terrorists: 
+Exactly the same!
+
+(Press FIRE to b4sh!)

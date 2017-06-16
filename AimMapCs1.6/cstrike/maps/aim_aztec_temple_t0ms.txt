@@ -1,0 +1,10 @@
+map : AIM_AZTEC_TEMPLE_T0MS
+
+version map : 1 (aim)
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map aim texture aztec, avec temple aztec ...

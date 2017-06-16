@@ -1,0 +1,12 @@
+AIM_ADULATION
+-----------------
+Mapping: omnirage
+Textures: Ritual Ent., Valve Soft.
+---------------------
+
+Counter-Terrorists: Have fun, kill, die.
+
+Terrorists: Have fun, kill, die.
+
+
+(Press FIRE to continue)

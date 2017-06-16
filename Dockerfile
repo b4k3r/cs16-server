@@ -25,7 +25,10 @@ WORKDIR /home/steam/cs16
 # Copy ESL configs
 COPY *.cfg cstrike/
 
+# Install aim maps
+COPY AimMapCs1.6/cstrike cstrike/
+
 EXPOSE 27015/tcp
 EXPOSE 27015/udp
 
-CMD ./hlds_run -game cstrike -strictportbind -autoupdate -ip 0.0.0.0 +sv_lan 1 +map de_dust2 -maxplayers 12
+CMD ./hlds_run -game cstrike -strictportbind -autoupdate -ip 0.0.0.0 +sv_lan 1 +map aim_map -maxplayers 32

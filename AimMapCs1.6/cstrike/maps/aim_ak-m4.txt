@@ -1,0 +1,52 @@
+=====================================================================
+	    "aim_ak-m4" by "GoNe-SkN-"
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: 	"Aim_ak-m4"
+Filename	:	'Aim_ak-m4.bsp"
+Author		:	"Kevin" ( GoNe-SkN- )
+Author Email	:	"SkN_cs@hotmail.com"
+Home page	:	"www.GoNe.vze.com"
+Description	:	"its a fun map you can see :S"
+
+------Credits and Thanks---------------------------------------------
+
+"Thnx by my self i think :D i build this map on my self nobody
+helpt me :P"
+
+------Additional Info, Tips, and Notes-------------------------------
+
+"so far i know there no tips for you guys or bugs"
+
+------Play Information-----------------------------------------------
+
+Map Description	:	"De_dust texture"
+How Many Players:	"13"
+
+------Map Information------------------------------------------------
+
+New Textures	:	"No"
+New Sounds	:	"No"
+
+------Construction---------------------------------------------------
+
+Base		:	"aim_ak-m4"
+Editor(s) used	:	"Worldcraft 3.3"
+Compile Machine	: 	"Pentium 4 2.6 ghz"
+Compile time	:	"10 seconds"
+Playtest time	:	"60 minutes"
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without permission from the author.
+
+
