@@ -1,0 +1,15 @@
+fy_absolut - mayan city
+
+Map and textures by:
+Kent Bentjen; a.k.a. - archet1pe
+(archet1pe@yahoo.com)
+
+Meant for low-grav FUN! I didn't want to
+mess with the gravity entities, just have
+your admin change the gravity to 120.
+
+Counter-Terrorists: Kill the Terrorists!
+
+Terrorists: Kill the Counter-Terrorists!
+
+(Press FIRE to continue...)
